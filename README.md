@@ -5,11 +5,8 @@ A complete **Power BI Data Visualization Project** analyzing an e-commerce trans
 
 ## 📷 Dashboard Preview
 
+<img width="1481" height="842" alt="image" src="https://github.com/user-attachments/assets/ee388a82-df3b-47f8-aa7c-a6f0e513e1b4" />
 
-```
-<img width="1481" height="842" alt="image" src="https://github.com/user-attachments/assets/193722e2-b29a-478d-9e49-cf93bddaba25" />
-
-```
 ---
 
 ## 📌 Project Overview
