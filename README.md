@@ -2,7 +2,6 @@
 
 A complete **Power BI Data Visualization Project** analyzing an e-commerce transaction dataset to uncover sales trends, customer behavior, and product performance through an interactive dashboard.
 
-
 ## 📷 Dashboard Preview
 
 <img width="1481" height="842" alt="image" src="https://github.com/user-attachments/assets/ee388a82-df3b-47f8-aa7c-a6f0e513e1b4" />
